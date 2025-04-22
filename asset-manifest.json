@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/piotr-landing/static/css/main.82cbc291.css",
-    "main.js": "/piotr-landing/static/js/main.153b3915.js",
+    "main.js": "/piotr-landing/static/js/main.8a9f07e8.js",
     "index.html": "/piotr-landing/index.html",
     "main.82cbc291.css.map": "/piotr-landing/static/css/main.82cbc291.css.map",
-    "main.153b3915.js.map": "/piotr-landing/static/js/main.153b3915.js.map"
+    "main.8a9f07e8.js.map": "/piotr-landing/static/js/main.8a9f07e8.js.map"
   },
   "entrypoints": [
     "static/css/main.82cbc291.css",
-    "static/js/main.153b3915.js"
+    "static/js/main.8a9f07e8.js"
   ]
 }
