@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://kin0-0ko.github.io/piotr-landing/static/css/main.82cbc291.css",
-    "main.js": "https://kin0-0ko.github.io/piotr-landing/static/js/main.205e9af5.js",
-    "index.html": "https://kin0-0ko.github.io/piotr-landing/index.html",
-    "main.82cbc291.css.map": "https://kin0-0ko.github.io/piotr-landing/static/css/main.82cbc291.css.map",
-    "main.205e9af5.js.map": "https://kin0-0ko.github.io/piotr-landing/static/js/main.205e9af5.js.map"
+    "main.css": "/piotr-landing/static/css/main.82cbc291.css",
+    "main.js": "/piotr-landing/static/js/main.ef2a37af.js",
+    "index.html": "/piotr-landing/index.html",
+    "main.82cbc291.css.map": "/piotr-landing/static/css/main.82cbc291.css.map",
+    "main.ef2a37af.js.map": "/piotr-landing/static/js/main.ef2a37af.js.map"
   },
   "entrypoints": [
     "static/css/main.82cbc291.css",
-    "static/js/main.205e9af5.js"
+    "static/js/main.ef2a37af.js"
   ]
 }
