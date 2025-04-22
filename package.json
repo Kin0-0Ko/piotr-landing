@@ -1,7 +1,7 @@
 {
   "name": "piotr-site",
   "version": "0.1.0",
-  "homepage": "https://Kin0-0Ko.github.io/piotr-landing",
+  "homepage": "https://kin0-0ko.github.io/piotr-landing",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
